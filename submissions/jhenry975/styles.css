@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document my_journey_style*/
+
+header{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+	margin: auto;
+	background-color: #C0C0C0;
+	border-style: groove;
+	border-color: #C0C0C0;
+	}
+	
+.photos{
+	height: 200;
+	width: 400;
+	}
+	
+#my_footer{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+	font-weight: bold;
+	margin: auto;
+	background-color: red;
+	border-style: groove;
+	border-color: #C0C0C0;
+	}
+
+
+	
